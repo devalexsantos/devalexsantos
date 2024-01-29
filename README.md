@@ -1,8 +1,5 @@
 ### Olá! 👋 Eu sou o Alex Santos e trabalho com desenvolvimento front end.
-<p>Desenvolvedor Web Front-end. Sou focado em me manter atualizado com as tecnologias mais modernas do mercado. Tenho <strong>experiênciais reais</strong> e em produção com <strong>Javascript / Typescript</strong>, <strong>React.js</strong>, <strong>Next.js</strong>, <strong>HTML</strong>, <strong>CSS</strong> entre outras.
-  <ul>
-    <li>🌱 Atualmente estou estudando também <strong>Node.js</strong></li>  
-  </ul>
+<p>Desenvolvedor Web Front-end. Sou focado em me manter atualizado com as tecnologias mais modernas do mercado. Tenho <strong>experiênciais reais</strong> e em produção com <strong>Javascript / Typescript</strong>, <strong>React.js</strong>, <strong>Next.js</strong>, <strong>Node.js</strong>, <strong>HTML</strong>, <strong>CSS</strong> entre outras.
 </p>
 <h4>Tecnologias que tenho experiência:</h4>
 <div style="display: inline_block">
