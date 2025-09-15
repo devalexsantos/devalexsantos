@@ -14,8 +14,3 @@
   <img align="center" alt="Alex-GraphQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/graphql/graphql-plain.svg">
 </div>
 <br/>
-<div>
-  <a href="https://github.com/devalexsantos">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=devalexsantos&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&title_color=fff"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=devalexsantos&layout=compact&langs_count=7&theme=dracula&title_color=fff"/>
-</div>
