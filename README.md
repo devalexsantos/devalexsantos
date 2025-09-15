@@ -1,4 +1,4 @@
-### Olá! 👋 Eu sou o Alex Santos.
+### Hello! 👋 I'm Alex Santos
 <p>Fullstack developer. I'm focused on staying up-to-date with the most modern technologies on the market. I have real-world and production experience with Javascript / Typescript, React.js, Next.js, Node.js, HTML, CSS, and more.
 </p>
 <h4>Tecnologias que tenho experiência:</h4>
