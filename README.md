@@ -1,7 +1,7 @@
 ### Hello! 👋 I'm Alex Santos
 <p>Fullstack developer. I'm focused on staying up-to-date with the most modern technologies on the market. I have real-world and production experience with Javascript / Typescript, React.js, Next.js, Node.js, HTML, CSS, and more.
 </p>
-<h4>Tecnologias que tenho experiência:</h4>
+<h4>Tech Stack</h4>
 <div style="display: inline_block">
   <img align="center" alt="Alex-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Alex-React" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
